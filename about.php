@@ -72,7 +72,7 @@
     </div>
 </section>
     <section class="py-20 bg-purple-200">
-        <div class="max-w-7xl mx-auto px-9">
+        <div class="max-w-7xl mx-auto px-8">
             <div class="text-center mb-16">
                 <h2 class="text-3xl font-serif text-[#1a1a2e]">The GlowMuse Promise</h2>
             </div>
